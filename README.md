@@ -12,6 +12,8 @@ While compiling it might show some  \*.sty files as missing which can be resolve
 	- Compille with latex (latex resume.tex)
 - Download package from CTAN ([Installing tex packages from CTAN in linux](http://tex.stackexchange.com/questions/38978/how-can-i-manually-install-a-latex-package-debian-ubuntu-linux) )
 
+use locate to find sty files and add them manually during compilation
+
 *Result will be a resume.dvi file which can be converted to pdf using:*
 
 		 (dvipdfm resume.dvi)
