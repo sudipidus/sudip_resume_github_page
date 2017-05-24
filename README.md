@@ -17,6 +17,13 @@ use locate to find sty files and add them manually during compilation
 *Result will be a resume.dvi file which can be converted to pdf using:*
 
 		 (dvipdfm resume.dvi)
+ In order to enable hyperlink generate pdf using the following steps:
+
+	     (dvips resume.dvi)
+	     (ps2pdf resume.ps)
+
 *Output will be saved as resume.pdf along with some auxillary and log files*
 
 Tuesday, 08. November 2016 01:50AM 
+
+
