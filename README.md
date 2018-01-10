@@ -10,7 +10,11 @@ I have used [David Grant Resume](http://www.davidgrant.ca/latex_resume_template)
 While compiling it might show some  \*.sty files as missing which can be resolved as:
 
 	- Compille with latex (latex resume.tex)
-- Download package from CTAN ([Installing tex packages from CTAN in linux](http://tex.stackexchange.com/questions/38978/how-can-i-manually-install-a-latex-package-debian-ubuntu-linux) )
+	Install tex: 
+
+	(sudo apt install texlive-latex-base)
+
+- Download package from CTAN ([Installing tex packages from CTAN in linux](http://tex.stackexchange.com/questions/38978/how-can-i-manually-install-a-latex-package-debian-ubuntu-linux) )  [shading package CTAN](https://ctan.org/tex-archive/macros/latex209/contrib/shading)
 
 use locate to find sty files and add them manually during compilation
 

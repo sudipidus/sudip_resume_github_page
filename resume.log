@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2017.5.24)  24 MAY 2017 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.1.10)  10 JAN 2018 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -29,8 +29,8 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
-Enter file name: /home/tech/Downloads/shading/shading.sty
-(/home/tech/Downloads/shading/shading.sty
+Enter file name: /home/tech/Downloads/shading.sty
+(/home/tech/Downloads/shading.sty
 \graybox=\box26
 \xgrayspace=\dimen103
 \ygrayspace=\dimen104
@@ -197,6 +197,10 @@ LaTeX Info: Redefining \nameref on input line 41.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -204,7 +208,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 43.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -230,11 +233,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
  4315 strings out of 494954
- 64804 string characters out of 6181003
- 150324 words of memory out of 5000000
+ 64780 string characters out of 6181003
+ 149308 words of memory out of 5000000
  7615 multiletter control sequences out of 15000+600000
  7945 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,8n,24p,423b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (3 pages, 13636 bytes).
+Output written on resume.dvi (3 pages, 13544 bytes).
