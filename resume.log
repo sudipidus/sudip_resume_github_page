@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.1.10)  13 MAR 2018 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.5.18)  30 JUN 2018 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -29,8 +29,8 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
-Enter file name: /home/tech/Downloads/shading.sty
-(/home/tech/Downloads/shading.sty
+Enter file name: /home/sudipbhandari/Downloads/shading.sty
+(/home/sudipbhandari/Downloads/shading.sty
 \graybox=\box26
 \xgrayspace=\dimen103
 \ygrayspace=\dimen104
@@ -203,13 +203,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 43.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
  [1
 
 ]
@@ -217,24 +217,24 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
 
 (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
  4315 strings out of 494954
- 64780 string characters out of 6181003
- 150308 words of memory out of 5000000
+ 64807 string characters out of 6181003
+ 150326 words of memory out of 5000000
  7615 multiletter control sequences out of 15000+600000
  7945 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,24p,335b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,25p,335b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (3 pages, 14060 bytes).
+Output written on resume.dvi (3 pages, 12800 bytes).
