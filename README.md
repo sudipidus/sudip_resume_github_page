@@ -28,6 +28,26 @@ use locate to find sty files and add them manually during compilation
 
 *Output will be saved as resume.pdf along with some auxillary and log files*
 
+
+## Git hook to automate above stuffs
+
+Create a file named: 
+
+`.git/hooks/pre-commit`
+
+Make it executable: `sudo chmod +x .git/hooks/pre-commit`
+
+Populate with following content:
+
+```sh
+latex resume.tex #latex compilation
+dvipdfm resume.dvi #dvi conversion
+dvips resume.dvi #enabling hyperlinks
+ps2pdf resume.ps
+git add -A #adding to staging area for commit
+```
+
+
 Tuesday, 08. November 2016 01:50AM 
 
 
