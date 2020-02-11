@@ -1,0 +1,20 @@
+name: LatexCompile
+
+on:
+  push:
+    branches:
+      - gbaction
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: github action to latex compile
+      run: echo compiling latex resume
+    - name: Run a multi-line script
+      run: |
+        latex resume.tex,
+        echo test, and deploy your project.
