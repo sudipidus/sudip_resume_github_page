@@ -20,5 +20,5 @@ jobs:
     - name: Run a multi-line script
       working-directory: sudip_resume_github_page
       run: |
-        latex resume.tex,
+        latex resume.tex
         echo test, and deploy your project.
