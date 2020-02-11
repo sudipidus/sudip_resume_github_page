@@ -18,6 +18,6 @@ jobs:
     - name: compiling latex
       run: echo compiling latex resume
     - name: Run a multi-line script
-      working-directory: sudip_resume_github_page
+      working-directory: sudip_resume
       run: latex resume.tex
         
