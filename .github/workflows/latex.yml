@@ -13,9 +13,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: echo installing latex
+    - name: setting up directory
+      uses: ./
+    - name: installing latex
       run: sudo apt-get install texlive-latex-extra
-    - name: github action to latex compile
+    - name: compiling latex
       run: echo compiling latex resume
     - name: Run a multi-line script
       run: |
