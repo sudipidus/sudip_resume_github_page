@@ -3,7 +3,7 @@ name: LatexCompile
 on:
   push:
     branches:
-      - master
+      - gbaction
 
 jobs:
   build:
