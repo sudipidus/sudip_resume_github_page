@@ -1,4 +1,5 @@
 name: LatexCompile
+sudo apt-get install texlive-full
 
 on:
   push:
