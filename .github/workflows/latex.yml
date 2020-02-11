@@ -1,5 +1,5 @@
 name: LatexCompile
-sudo apt-get install texlive-full
+
 
 on:
   push:
@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: echo installing latex
+      run: sudo apt-get install texlive-full
     - name: github action to latex compile
       run: echo compiling latex resume
     - name: Run a multi-line script
