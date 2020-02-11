@@ -19,5 +19,6 @@ jobs:
       run: echo compiling latex resume
     - name: Run a multi-line script
       run: |
-        latex resume.tex,
+        echo $pwd
+        latex ../resume.tex,
         echo test, and deploy your project.
