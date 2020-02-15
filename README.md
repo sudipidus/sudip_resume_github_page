@@ -1,6 +1,7 @@
 # sudip_resume
 
-![badge](https://github.com/sudipbhandari126/sudip_resume_github_page/workflows/LatexCompile/badge.svg)
+I use github action to compile latex resume to pdf. This is the latest result.
+![badge](https://github.com/sudipbhandari126/sudip_resume_github_page/workflows/LatexCompile/badge.svg?branch=master)
 
 ***
 
