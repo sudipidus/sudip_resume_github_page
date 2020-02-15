@@ -13,11 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: installing latex
-      run: sudo apt-get install texlive-latex-extra
-    - name: compiling latex
-      run: echo compiling latex resume
-    - name: Run a multi-line script
-      working-directory: sudip_resume
-      run: latex resume.tex
+    - name: demo job
+      run: echo hello world
+    
         
