@@ -5,6 +5,7 @@ on:
   push:
     branches: 
       - gb
+      - master
 
 jobs:
   build:
