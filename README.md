@@ -1,5 +1,7 @@
 # sudip_resume
 
+![badge](https://github.com/sudipbhandari126/sudip_resume_github_page/workflows/latex/badge.svg)
+
 ***
 
 This repo maintains the resume of Sudip Bhandari.
