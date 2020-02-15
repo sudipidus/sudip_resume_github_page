@@ -2,9 +2,9 @@ name: LatexCompile
 
 
 on:
-  push:
-    branches:
-      - gb
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '* * * * *'
 
 jobs:
   build:
@@ -13,6 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      
     - name: demo job
       run: echo hello world
     
