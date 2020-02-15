@@ -1,4 +1,4 @@
-name: LatexCompile
+name: Build Latex Document
 
 
 on:
@@ -16,5 +16,12 @@ jobs:
       
     - name: demo job
       run: echo hello world
+    - name: Set up Git repository
+      uses: actions/checkout@v1
+    - name: Compile LaTeX document
+      uses: xu-cheng/latex-action@master
+      with:
+          root_file: resume.tex
+
     
         
