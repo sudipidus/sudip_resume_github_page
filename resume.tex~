@@ -41,7 +41,7 @@
 \begin{document}
 
 \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-\textbf{\Large Sudip Bhandari}  & +91 8310074018 sudip.post@gmail.com (alt: sudip.post@outlook.com) \\
+\textbf{\Large Sudip Bhandari}  & +91 8310074018 sudip.post@gmail.com, alt: sudip.post@outlook.com\\
 \href{https://sudipbhandari126.github.io/}{Github Blog}\\
 \href{https://about.me/sudip.post}{About Me}
 \end{tabular*}
@@ -153,7 +153,7 @@
 \resheading{Skills}
 \begin{description}
 \item[Languages(Frameworks):]
-Java-8, Data Structures & Algorithms, Desgin Patterns, Python, Spring Boot, Django, C/C++, Mysql, Oracle
+Java-8, Python, Spring Boot, Django, C/C++, Mysql, Oracle
 \item[Operating Systems:]
 Linux (Ubuntu,Mint), Windows
 \item[Web:]
